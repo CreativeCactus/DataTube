@@ -1,7 +1,7 @@
 # DataTube
 Host your data in videos!
 
-
+<a href="https://raw.githubusercontent.com/CreativeCactus/DataTube/master/record.webm">See it in action!</a>
 
 Generate image sequence, convert to video.
 ``` 
