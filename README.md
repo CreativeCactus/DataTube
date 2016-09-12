@@ -3,7 +3,8 @@ Host your data in videos!
 
 <video width="320" height="240" controls>
   <source src="https://raw.githubusercontent.com/CreativeCactus/DataTube/master/record.webm" type="video/webm">
-Your browser does not support the video tag.
+  <source src="https://raw.githubusercontent.com/CreativeCactus/DataTube/master/record.mp4" type="video/mp4">
+Your browser does not support the video tag. See record.*
 </video>
 
 Generate image sequence, convert to video.
