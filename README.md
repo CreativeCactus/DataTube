@@ -1,7 +1,10 @@
 # DataTube
 Host your data in videos!
 
-<a href="https://raw.githubusercontent.com/CreativeCactus/DataTube/master/record.webm">See it in action!</a>
+<video width="320" height="240" controls>
+  <source src="https://raw.githubusercontent.com/CreativeCactus/DataTube/master/record.webm" type="video/webm">
+Your browser does not support the video tag.
+</video>
 
 Generate image sequence, convert to video.
 ``` 
