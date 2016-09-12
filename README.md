@@ -1,7 +1,7 @@
 # DataTube
 Host your data in videos!
 
-<img src="http://raw.githubusercontent.com/CreativeCactus/DataTube/master/record.gif></img>
+<img src="http://raw.githubusercontent.com/CreativeCactus/DataTube/master/record.gif"></img>
 
 Generate image sequence, convert to video.
 ``` 
